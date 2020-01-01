@@ -142,5 +142,5 @@ while True:
     csv_writer.writerow(data)
     
     print(data)
-    sleep(300)
+    #sleep(300)
 
